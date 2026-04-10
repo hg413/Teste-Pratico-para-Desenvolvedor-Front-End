@@ -1,4 +1,4 @@
-# SGF - Sistema de Gestão de Frotas (Desafio Angular)
+# SGU - Sistema de Gestão de Usuarios (Desafio Angular)
 
 Este projeto é uma aplicação Angular desenvolvida como parte de um desafio técnico. A aplicação consiste em uma listagem de usuários com funcionalidades de busca, criação e edição.
 
